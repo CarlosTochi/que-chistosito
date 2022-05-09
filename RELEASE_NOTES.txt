@@ -1,0 +1,17 @@
+== ====================================================================================================
+==
+== LaBiclaV0.9
+==
+== ====================================================================================================
+ - Main page implementation with JSP
+ - User Session: User full name is shown on the screen when user has been authenticated.
+ - MVC pattern implementation using JSPs (views) and Servlets (Controllers)
+ - ValueObject pattern implementation
+ - PreparedStatement in controllers
+ - Data Access Object pattern implementation
+ - Blog section
+ - Header, message_panel and search panel view components.
+ - User registration functionality
+ - Security Utility
+ - New Blog entry edition and deletion functionalities
+ 
